@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "twilio",
+      "type": "Spring.Twilio.service.Twilioproperties",
+      "sourceType": "Spring.Twilio.service.Twilioproperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "twilio.account-sid",
+      "type": "java.lang.String",
+      "sourceType": "Spring.Twilio.service.Twilioproperties"
+    },
+    {
+      "name": "twilio.auth-token",
+      "type": "java.lang.String",
+      "sourceType": "Spring.Twilio.service.Twilioproperties"
+    },
+    {
+      "name": "twilio.from-number",
+      "type": "java.lang.String",
+      "sourceType": "Spring.Twilio.service.Twilioproperties"
+    }
+  ],
+  "hints": []
+}
